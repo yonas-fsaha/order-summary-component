@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary card
+#  Order summary card with html and css
 
 
 
