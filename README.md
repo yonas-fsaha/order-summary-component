@@ -13,7 +13,7 @@ Your users should be able to:
 
 
 
-  and ask questions in the **#help** channel.
+
 
 ## Where to find everything
 
