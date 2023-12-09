@@ -13,7 +13,7 @@ Your users should be able to:
 
 - See hover states for interactive elements
 
-Want some support on the challenge?  and ask questions in the **#help** channel.
+  and ask questions in the **#help** channel.
 
 ## Where to find everything
 
