@@ -19,7 +19,6 @@ Your users should be able to:
 
 
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
 ## Building your project
 
