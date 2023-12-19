@@ -53,7 +53,6 @@ Once you've added your information to the template, delete this file and rename 
 ## Sharing your solution
 
 
-3. Share your solution on other social channels like LinkedIn.
 4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
 
 We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
