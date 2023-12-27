@@ -50,8 +50,7 @@ Once you've added your information to the template, delete this file and rename 
 
 ## Sharing your solution
 
-Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
-
+Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), 
 
 
 The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
