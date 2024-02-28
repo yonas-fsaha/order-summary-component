@@ -12,14 +12,6 @@ You can use any tools you like to help you complete the challenge. So if you've 
 Your users should be able to:
 
 
-
-
-
-
-
-
-
-
 ## Building your project
 
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
