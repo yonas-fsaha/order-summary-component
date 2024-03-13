@@ -39,7 +39,6 @@ Blog about your experience building your project. Writing about your workflow, t
 
 The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
 
-## Got feedback for us?
 
 
 
