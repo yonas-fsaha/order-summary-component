@@ -37,7 +37,6 @@ As mentioned above, there are many ways to host your project for free. Our recom
 
 Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. 
 
-The more specific you are with your questions the more likely 
 
 
 
