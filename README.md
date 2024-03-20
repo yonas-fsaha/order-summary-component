@@ -16,7 +16,7 @@ Your users should be able to:
 
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). 
+1. Initialize your project as a public repository 
 ## Deploying your project
 
 
