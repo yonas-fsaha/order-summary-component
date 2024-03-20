@@ -14,7 +14,7 @@ Your users should be able to:
 
 ## Building your project
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, 
+Feel free to use any workflow that you feel comfortable with. 
 ## Deploying your project
 
 
