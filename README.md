@@ -1,4 +1,3 @@
-#  Order summary card with html and css
 
 
 
