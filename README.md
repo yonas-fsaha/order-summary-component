@@ -1,7 +1,5 @@
 
 
-
-
 ## The challenge
 
 Your challenge is to build out this order summary 
