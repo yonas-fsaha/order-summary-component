@@ -1,5 +1,4 @@
-Your challenge is to build out this order summary 
-
+Your challenge is to build
 
 
 
