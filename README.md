@@ -73,6 +73,6 @@ Remember, if you're looking for feedback on your solution, be sure to ask questi
 
 There are multiple places you can share your solution:
 
-1. Share your solution page in the **#finished-projects** 
+1. Share your solution page in the 
 **Have fun building!** 🚀
 
