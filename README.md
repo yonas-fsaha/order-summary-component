@@ -71,6 +71,5 @@ Remember, if you're looking for feedback on your solution, be sure to ask questi
 
 ## Sharing your solution
 
-There are multiple 
 **Have fun building!** 🚀
 
