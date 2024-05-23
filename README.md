@@ -71,7 +71,6 @@ Remember, if you're looking for feedback on your solution, be sure to ask questi
 
 ## Sharing your solution
 
-There are multiple places you can share your solution:
-
+There are multiple places you can share
 **Have fun building!** 🚀
 
