@@ -20,7 +20,7 @@ Your users should be able to:
 
 - See hover states for interactive elements
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) 
+Want some support on the challenge? [Join our Slack community]
 
 ## Where to find everything
 
