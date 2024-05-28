@@ -65,6 +65,6 @@ Once you've added your information to the template, delete this file and rename 
 
 ## Submitting your solution
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide (https://medium.com/frontend-mentor/a-complete-guide-to-submitting
+Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide (https://medium.com/frontend-mentor/a-
 **Have fun building!** 🚀
 
