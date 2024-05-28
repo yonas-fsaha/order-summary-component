@@ -65,6 +65,6 @@ Once you've added your information to the template, delete this file and rename 
 
 ## Submitting your solution
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide 
+Submit your solution on the platform for the rest of the community to see. 
 **Have fun building!** 🚀
 
