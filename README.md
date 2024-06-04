@@ -65,5 +65,4 @@ Once you've added your information to the template, delete this file and rename 
 
 ## Submitting your solution
 
-Submit your solution on the platform 
-
+Submit your solution 
