@@ -18,9 +18,6 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your users should be able to:
 
-- See hover states for interactive elements
-
-Want some support on the challenge?
 
 ## Where to find everything
 
