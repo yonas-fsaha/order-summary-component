@@ -31,4 +31,3 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 ## Building your project
 
-Feel free to use any workflow 
