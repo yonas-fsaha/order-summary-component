@@ -31,4 +31,4 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 ## Building your project
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process
+Feel free to use any workflow that you feel comfortable with. 
