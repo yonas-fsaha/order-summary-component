@@ -27,6 +27,6 @@ If you would like the design files (we provide Sketch & Figma versions) to inspe
 
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
-There is also a `style-guide.md` file containing the 
+There is also a `style-guide.md`
 
 
