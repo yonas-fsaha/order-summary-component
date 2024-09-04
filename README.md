@@ -25,7 +25,6 @@ The designs are in JPG static format. Using JPGs will mean that you'll need to u
 
 If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
 
-You will find all the required 
 
 
 
