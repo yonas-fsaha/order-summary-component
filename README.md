@@ -21,4 +21,3 @@ You can use any tools you like  the challenge. So if you've got something you'd 
 
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
 
-The designs are in
