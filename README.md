@@ -14,7 +14,7 @@ Thanks for checking out this front-end coding challenge.
 
 Your challenge is to buildsummary card component and get it looking as close to the design as possible.
 
-You can use any tools you like  the challenge. So if you've got something you'
+You can use any tools you like  the challenge.
 
 
 ## Where to find everything
