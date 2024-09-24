@@ -19,4 +19,3 @@ You can use any tools you like  the challenge.
 
 ## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder.
