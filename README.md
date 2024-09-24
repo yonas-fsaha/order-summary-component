@@ -19,4 +19,4 @@ You can use any tools you like  the challenge.
 
 ## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version
+Your task is to build out the project to the designs inside the `/design` folder.
