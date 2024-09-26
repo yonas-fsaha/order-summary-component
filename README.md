@@ -17,5 +17,4 @@ Your challenge is to buildsummary card component and get it looking as close to 
 You can use any tools you like  the challenge.
 
 
-## Where to find everything
 
