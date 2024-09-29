@@ -12,7 +12,5 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-Your challenge is to buildsummary card component
-
-
+Your challenge is to buildsummary 
 
