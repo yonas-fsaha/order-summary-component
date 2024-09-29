@@ -12,7 +12,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-Your challenge is to buildsummary card component and get it looking as close to the design as possible.
+Your challenge is to buildsummary card component and get it looking as close
 
 
 
