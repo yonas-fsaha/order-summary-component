@@ -4,6 +4,6 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this
+Thanks for
 
 
