@@ -4,6 +4,4 @@
 
 ## Welcome! 👋
 
-Thank
-
 
